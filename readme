@@ -1,0 +1,8 @@
+
+Introduction:- This is a Dynamic website for Weather Forecast with a search option,
+               so one can get the data of a specified location with a single click,
+               where the data source is retrieved from an open API source, and then it
+               is displayed on the webpage.
+
+Build using ? :- Nodejs, Expressjs.
+                 Dependency used hbs.
